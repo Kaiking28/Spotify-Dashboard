@@ -1,2 +1,2 @@
 # Spotify-Dashboard
-Spotify Dashboard developed for advanced datascience course to help mixers and DJs find what song to mix next. 
+Spotify Dashboard developed for advanced datascience course to help mixers and DJs find what song to mix next. Uses Kaggle Dataset and Deezer API
